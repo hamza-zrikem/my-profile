@@ -1,0 +1,24 @@
+.flex-head	{
+			display: flex;
+			flex-wrap: wrap;
+    		align-items: center;
+   			justify-content: space-between;
+			}
+.flex-head div	{
+				flex-basis: 310px;	
+				}
+
+.name-align		{text-align: center;}
+.contact-align	{text-align: center;}
+.img-align		{text-align: right;}
+
+
+.flex-skills	{
+				display: flex;
+				flex-wrap: wrap;
+				}
+.flex-skills div{
+				flex-basis: 590px;	
+				}
+
+

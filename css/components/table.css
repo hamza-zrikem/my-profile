@@ -1,0 +1,3 @@
+table { border-collapse: collapse;}
+.right-border{border-right: 1px solid #333; vertical-align: top; padding: 10px;text-align: left;}
+.none-border{border: none;padding: 10px;text-align: left; }
